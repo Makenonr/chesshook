@@ -5,7 +5,7 @@
 // @require     https://raw.githubusercontent.com/0mlml/chesshook/master/betafish.js
 // @require     https://raw.githubusercontent.com/0mlml/vasara/main/vasara.js
 // @version     2.3
-// @author      0mlml
+// @author      Mahmoud78zalat
 // @description Chess.com Cheat Userscript
 // @updateURL   https://raw.githubusercontent.com/0mlml/chesshook/master/chesshook.user.js
 // @downloadURL https://raw.githubusercontent.com/0mlml/chesshook/master/chesshook.user.js
@@ -1463,3 +1463,4 @@
     }
   });
 })();
+
